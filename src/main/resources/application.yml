@@ -1,0 +1,7 @@
+search.engine: "https://www.bing.com/"
+user.agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+
+organic:
+  item.selector: "li.b_algo"
+  link.selector: "cite"
+  lib.selector: "script[src$=.js]"
